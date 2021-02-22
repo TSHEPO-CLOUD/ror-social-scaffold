@@ -2,6 +2,9 @@
 
 > This repo includes intial code for social media app with basic styling. Its purpose is to be a starting point for Microverse students.
 
+## Desktop
+![screenshot](/app/assets/images/scr.png)
+
 ## Built With
 
 - Ruby v2.7.0
@@ -60,7 +63,7 @@ Open `http://localhost:3000/` in your browser.
 ### Run tests
 
 ```
-    rpsec --format documentation
+    rspec --format documentation
 ```
 
 > Tests will be added by Microverse students. There are no tests for initial features in order to make sure that students write all tests from scratch.
