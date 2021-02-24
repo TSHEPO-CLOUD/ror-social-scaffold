@@ -3,7 +3,8 @@
 > This repo includes intial code for social media app with basic styling. Its purpose is to be a starting point for Microverse students.
 
 ## Desktop
-![screenshot](/app/assets/images/scr.png)
+![screenshot](/app/assets/images/scr1.png)
+
 
 ## Built With
 
